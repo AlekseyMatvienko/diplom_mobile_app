@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/navigation_main"
+        android:icon="@drawable/main"
+        android:title="@string/main" />
+
+    <item
+        android:id="@+id/navigation_cars"
+        android:icon="@drawable/cars"
+        android:title="@string/cars" />
+
+    <item
+        android:id="@+id/navigation_my_orders"
+        android:icon="@drawable/my_orders"
+        android:title="@string/my_orders" />
+
+    <item
+        android:id="@+id/navigation_basket"
+        android:icon="@drawable/basket"
+        android:title="@string/basket" />
+
+</menu>

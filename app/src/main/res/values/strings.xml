@@ -1,0 +1,52 @@
+<resources>
+    <!-- Авторизация/Регистрация -->
+    <string name="app_name">СТО Фортуна</string>
+    <string name="pass">Пароль</string>
+    <string name="log">Логин</string>
+    <string name="forget_pass">Забыли пароль?</string>
+    <string name="login">Войти</string>
+    <string name="reg">Регистрация</string>
+    <string name="email">Почта</string>
+    <string name="phone">Телефон</string>
+    <string name="fio">ФИО</string>
+    <string name="error">Неверный логин или пароль</string>
+    <string name="title_activity_no_connection">NoConnection</string>
+    <string name="agree">Согласие на обработку персональных данных</string>
+
+    <!-- Нет подключения -->
+    <string name="Update">Обновить</string>
+    <string name="error_connect">Ошибка подключения</string>
+    <string name="text_error">Проверьте интернет-соединение и повторите попытку</string>
+
+    <!-- Нижнее меню -->
+    <string name="main">Главная</string>
+    <string name="cars">Машины</string>
+    <string name="my_orders">Мои заказы</string>
+    <string name="basket">Корзина</string>
+    <string name="error_server">Ошибка сервера</string>
+    <string name="Services">Услуги:</string>
+    <string name="new_car">Новая машина</string>
+    <string name="add_on_basket">+ Добавить в корзину</string>
+    <string name="no_car">Вы ещё не добавили ни одной машины!</string>
+    <string name="number_car">Номер автомобиля</string>
+    <string name="vin_number_car">VIN-номер</string>
+    <string name="year">Год выпуска</string>
+    <string name="error_date">Введены неверные данные</string>
+    <string name="mark">Марка:</string>
+    <string name="Number">Номер:</string>
+    <string name="model">Модель:</string>
+    <string name="make_order">Оформить заказ</string>
+    <string name="cancel">Отменить</string>
+    <string name="all">Итого: </string>
+    <string name="making_order">Оформление заказа</string>
+    <string name="add_service">Добавить услуги</string>
+    <string name="fio_client">ФИО клиента</string>
+    <string name="choise_service">Выбранные услуги:</string>
+    <string name="Orders">Заказы:</string>
+    <string name="detailed">Подробнее...</string>
+    <string name="order_number">Заказ № </string>
+    <string name="number">Номер:</string>
+    <string name="example_num">Пример: М111ММ 11</string>
+    <string name="example_vin_num">Пример: q2qq2qqq2qqq2qqq2 (17 символов)</string>
+    <string name="example_year">Пример: 2000</string>
+</resources>
